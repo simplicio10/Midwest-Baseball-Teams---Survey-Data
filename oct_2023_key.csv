@@ -1,0 +1,79 @@
+State - 1st & 4th Q,
+3,AR
+7,CO
+16,IA
+17,ID
+18,IL
+19,IN
+20,KS
+21,KY
+27,MI
+28,MN
+29,MO
+32,MT
+34,ND
+35,NE
+41,OH
+42,OK
+44,PA
+49,SD
+50,TN
+57,WI
+58,WV
+59,WY
+,
+Q,Do you consider yourself to currently live in the Midwest?
+1,Yes
+2,No
+,
+Q,Do you consider yourself to be a Midwesterner?
+1,Yes
+2,No
+,
+Q,"Do you consider yourself to be conservative, moderate, or liberal?"
+1,Conservative
+2,Moderate
+3,Liberal
+,
+Q,What is your party registration?
+1,Not registered to vote 
+2,Democrat
+3,Republican
+4,Independent/other
+,
+Q,What is your age range?
+1,18-24
+2,25-29
+3,30-39
+4,40-49
+5,50-59
+6,60-69
+7,70 or more years
+,
+Q,"For statistical purposes only, can you please tell me your ethnicity?"
+1,Hispanic or Latino of any race
+2,White or Caucasian
+3,Black or African American
+4,Asian
+5,Other or multiple races
+,
+Q,Who did you vote for in the 2020 election?
+1,Joe Biden
+2,Donald Trump
+3,Someone else
+4,Did not vote
+,
+Q,What is the highest level of education you have attained?
+1,High school or less
+2,Vocational/technical school
+3,Associate Degree/some college
+4,College graduate
+5,Postgraduate or higher
+,
+Q,Can you please tell me your gender?
+1,Male
+2,Female
+3,Non Binary or other
+,
+Q,What is the zip code you live in?
+,5 digits
