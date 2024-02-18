@@ -1,0 +1,8 @@
+Do you live in the Midwest or the South?,"{1, The Midwest, 2, South)"
+"Do you live in the Midwest, the Great Plains, or the West?","(1, The Midwest, 2 The Great Plains, 3 The West)"
+"Do you live in the Midwest, Appalachia, or the South?","(1 The Midwest, 2 Appalachia, 3 The South)"
+party affiliation/registration,"(1 Not registered to vote, 2 Democrat, 3 Republican, 4 independent/other("
+age,"(1 18-24, 2 25-29, 3 30-39, 4 40-49, 5 50-59, 6 60-69, 7 70+)"
+race/ethnicity,"(1 Hispanic or Latino of any race, 2 White or Caucasian, 3 Black or African American, 4 Asian, 5 Other/multiple)"
+gender,"(1 male, 2 female, 3 nonbinary)"
+state,"(1 colorado, 2 missouri, 3 ohio, 4 south dakota)"
